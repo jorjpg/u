@@ -1,0 +1,20 @@
+#main {
+  text-align: center;
+}
+#main table img {
+	width: 70px;
+	height: 70px;
+	opacity: 0.5;
+}
+#main table img:active {
+  box-shadow: 0px 0px 5px #FF0000;
+  opacity: 1;
+}
+
+#main table {
+	display: inline;
+}
+#bonus {
+  background-color: #E5FF00;
+  text-align: center;
+}
